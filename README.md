@@ -7,7 +7,9 @@ Use GitHub Desktop
 Please submit bug reports, suggestions and pull requests to the <span style="color: blue;">GitHub issue tracker</span>.
 We're particularly instested in fixing edge-cases, expanding test test coverage and updating translations.
 
+```bash
 git remote set-url upstream https://github.com/PHPMailer.git
+```
 
 # History
 
